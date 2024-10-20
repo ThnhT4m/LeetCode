@@ -12,8 +12,6 @@ using namespace std;
             int tmp = x +y;
             y=x;
             x = tmp;
-            
-
        }
        return x;
     }
